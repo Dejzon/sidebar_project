@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dejzon.github.io/course-directory/static/css/main.f87ed3ea.chunk.css",
+    "main.js": "/Dejzon.github.io/course-directory/static/js/main.bb08695e.chunk.js",
+    "main.js.map": "/Dejzon.github.io/course-directory/static/js/main.bb08695e.chunk.js.map",
+    "runtime-main.js": "/Dejzon.github.io/course-directory/static/js/runtime-main.b3a6c8af.js",
+    "runtime-main.js.map": "/Dejzon.github.io/course-directory/static/js/runtime-main.b3a6c8af.js.map",
+    "static/js/2.68d0abc0.chunk.js": "/Dejzon.github.io/course-directory/static/js/2.68d0abc0.chunk.js",
+    "static/js/2.68d0abc0.chunk.js.map": "/Dejzon.github.io/course-directory/static/js/2.68d0abc0.chunk.js.map",
+    "index.html": "/Dejzon.github.io/course-directory/index.html",
+    "static/css/main.f87ed3ea.chunk.css.map": "/Dejzon.github.io/course-directory/static/css/main.f87ed3ea.chunk.css.map",
+    "static/js/2.68d0abc0.chunk.js.LICENSE.txt": "/Dejzon.github.io/course-directory/static/js/2.68d0abc0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3a6c8af.js",
+    "static/js/2.68d0abc0.chunk.js",
+    "static/css/main.f87ed3ea.chunk.css",
+    "static/js/main.bb08695e.chunk.js"
+  ]
+}
